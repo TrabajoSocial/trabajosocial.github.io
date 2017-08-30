@@ -3,17 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.trabajosocial.co/categories/</loc>
+    <loc>http://www.trabajosocial.co/blog/tarjeta-profesional-colombia/</loc>
+    <lastmod>2017-08-10T23:02:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.trabajosocial.co/categories/blog/</loc>
+    <lastmod>2017-08-10T23:02:08-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.trabajosocial.co/tags/</loc>
+    <loc>http://www.trabajosocial.co/blog/</loc>
+    <lastmod>2017-08-10T23:02:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.trabajosocial.co/categories/</loc>
+    <lastmod>2017-08-10T23:02:08-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.trabajosocial.co/</loc>
+    <loc>http://www.trabajosocial.co/tags/consejo-nacional-de-trabajo-social/</loc>
+    <lastmod>2017-08-10T23:02:08-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.trabajosocial.co/tags/profesionales/</loc>
+    <lastmod>2017-08-10T23:02:08-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.trabajosocial.co/tags/</loc>
+    <lastmod>2017-08-10T23:02:08-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.trabajosocial.co/</loc>
+    <lastmod>2017-08-10T23:02:08-05:00</lastmod>
     <priority>0</priority>
   </url>
   
